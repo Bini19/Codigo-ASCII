@@ -6,7 +6,6 @@ namespace Código_ASCII
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("\t\t  Macoratti .net\n\tQuase tudo para Visual Basic\n");
             char ch;
             int i = 10;
             do
